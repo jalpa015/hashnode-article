@@ -14,7 +14,7 @@ This article is divided in two sections. First section covers installation and s
 ```
 conda
 ``` 
-This helps in knowing if Anaconda has been successfully involved. 
+This helps in knowing if Anaconda has been successfully installed. 
     
   To work on a python project it is a good way to create a virtual environment for the work. Before creating a virtual environment, the existing virtual environments can be accessed using the following command - 
 ```
